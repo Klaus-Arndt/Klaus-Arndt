@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Klaus-Arndt
+- 👀 I’m interested in OpenMover project at https://wiki.openmower.de/index.php?title=Main_Page
+- 🌱 I’m currently learning much more about modern hard and software development
+- 💞️ I’m looking to collaborate on OpenMover project
+- 📫 How to reach me see in discord channel 'x-tech' for 'Jordy#1042'
